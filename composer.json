@@ -1,5 +1,5 @@
 {
-    "name": "dvisbeen/knp-invoice",
+    "name": "bilalghouri/knpinvoice",
     "type": "library",
     "description": "PDF invoice generation",
     "keywords": ["invoice", "pdf", "generator"],
